@@ -1,0 +1,14 @@
+1. let and const provide a safer way to define variable.
+2. arrow function provide a simple way to define function. 
+3. no more issues with the this keyword in arrow function!
+4. export defalut vs. export, bookmarks in "React" document.
+5. inheritance in javascript.
+6. spread and rest operator
+7. deconstructing
+8. simple way to define a class.
+9. reference types vs. primitive type.
+10. use spread operator to deep copy object.
+11. JavaScript provides six primitive types as undefined, null, boolean, number, string, and symbol , and a reference type object.
+12. array function as filter and map.
+13. refer back to summary.pdf.
+14. refer to 24.JS Array Functions on the website.
